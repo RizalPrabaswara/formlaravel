@@ -63,3 +63,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # formlaravel
+In this form there are several inputs :
+<br/>
+<ul>
+    <li>File Input for image and preview the image</li>
+    <li>Dependant ajax for Country,City,and District in Indonesia</li>
+    <li>Multiple Select with many to many relationship and pivot table (Using Sync and Attach for pivot table</li>
+    <li>dropdown select with data from database</li>
+    <li>Show, Create, Update Pages form for the data</li>
+</ul>
